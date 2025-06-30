@@ -1,6 +1,9 @@
 # EasySeq 2.0
 
 <img width="598" alt="image" src="https://github.com/user-attachments/assets/7de79eae-da61-4193-931a-8a2dfcf32d5f" />
+<br>
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/605951af-8f46-40c5-9285-ae3f87be271c" />
+
 
 Basic RNASeq downstrram quick analysis tools for Windows
 
