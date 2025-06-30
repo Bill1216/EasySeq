@@ -18,7 +18,7 @@ Including differential expression, correlation, gene expr barplot, GSEA (with yo
 <br>
 <br>
 <br>
-<br>
+
 Download:
 - EasySeq v2.0.0 google drive link:<br>
   https://drive.google.com/file/d/11nyFO1hi4MnzpAhbbHoeGZ8HAEZ4IE8S/view?usp=drive_link
