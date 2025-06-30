@@ -1,4 +1,7 @@
 # EasySeq 2.0
+
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/7de79eae-da61-4193-931a-8a2dfcf32d5f" />
+
 Basic RNASeq downstrram quick analysis tools for Windows
 
 Including differential expression, correlation, gene expr barplot, GSEA (with your custom gene set), gene ontology, ssGSEA, singlecell data, visium data, merge multiple singlecell data
