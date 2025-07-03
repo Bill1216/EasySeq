@@ -21,7 +21,7 @@ You can directly modify the R script in the resources to meet your own requireme
 <br>
 <br>
 
-Download:
+Download for Windows:
 - EasySeq v2.0.0 google drive link:<br>
   https://drive.google.com/file/d/1cvdbzF0DPDvEAuNJEddjqOzpzK9tUlHa/view?usp=drive_link
 
