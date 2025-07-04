@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-Basic RNASeq downstream quick analysis tools for Windows.
+Basic RNASeq downstream analysis GUI for Windows.
 <br>
 <br>
 Including differential expression, correlation, gene expr barplot, GSEA (with your custom gene set), gene ontology, ssGSEA, singlecell data, visium data, merge multiple singlecell data.
