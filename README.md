@@ -15,7 +15,8 @@
 Basic RNASeq downstream quick analysis tools for Windows.
 <br>
 <br>
-Including differential expression, correlation, gene expr barplot, GSEA (with your custom gene set), gene ontology, ssGSEA, singlecell data, visium data, merge multiple singlecell data. 
+Including differential expression, correlation, gene expr barplot, GSEA (with your custom gene set), gene ontology, ssGSEA, singlecell data, visium data, merge multiple singlecell data.
+<br>
 You can directly modify the R script in the resources to meet your own requirements.
 <br>
 <br>
@@ -23,7 +24,7 @@ You can directly modify the R script in the resources to meet your own requireme
 
 Download for Windows:
 - EasySeq v2.0.0:<br>
-  https://drive.google.com/file/d/1cvdbzF0DPDvEAuNJEddjqOzpzK9tUlHa/view?usp=drive_link
+  https://drive.google.com/file/d/1-Ggr-P-DAfw6IDqQXeHhCxvUEyUrzbrY/view?usp=drive_link
 
 - EasySeq v2.0.0 Cats Edition:<br>
-  https://drive.google.com/file/d/1UADESboYJ_Ai8PpWGGkdj0A2N2ZcdI7S/view?usp=drive_link
+  https://drive.google.com/file/d/17gA8GltqUZ6twwTJllLANjKi_6Y7MNuV/view?usp=drive_link
