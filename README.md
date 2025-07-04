@@ -28,4 +28,4 @@ Download for Windows:
   https://drive.google.com/file/d/1-Ggr-P-DAfw6IDqQXeHhCxvUEyUrzbrY/view?usp=drive_link
 
 - EasySeq v2.0.0 Cats Edition:<br>
-  https://drive.google.com/file/d/17gA8GltqUZ6twwTJllLANjKi_6Y7MNuV/view?usp=drive_link
+  https://drive.google.com/file/d/1RfunLwkqr81vHP7vRvAr6kTvEYwfYRod/view?usp=drive_link
