@@ -1,12 +1,12 @@
-# EasySeq 2.0.0
+# LazyAnalyst 1.0.0
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/8aa2d495-9365-40e2-bcb2-4201f208d2e3" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d9a2995a-b6e2-4154-9abe-6bd6db463851" />
 <br>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/b6cde9d5-0aac-4217-b49b-37a7d3320d32" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/abf6de4c-87e7-4c95-bfb3-942478081b11" />
 <br>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/3bfd6d33-38f6-4c3b-b8db-f917f2cce2ac" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/e4db5582-4836-4836-81a6-243d974ac0e0" />
 <br>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/90238a19-83aa-45f1-a869-f09c456a223b" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f7ea006f-cc94-4cba-ba13-b2ad962dfde7" />
 <br>
 (Cover page of Cats Edition)
 <br>
@@ -24,8 +24,8 @@ You can directly modify the R script in the resources to meet your own needs.
 <br>
 
 Download for Windows:
-- EasySeq v2.0.0:<br>
-  https://drive.google.com/file/d/1fMh-fOU7Enwd9a8zs_RdGA3sEYqpo0sE/view?usp=drive_link
+- LazyAnalyst v1.0.0:<br>
+  https://drive.google.com/file/d/1SKxAtfA_tsCa-Qtn_glvcRpbtnWKN6WA/view?usp=drive_link
 
-- EasySeq v2.0.0 Cats Edition:<br>
-  https://drive.google.com/file/d/1DsJBQ62VHO3c9KyOMNGG-NbfSOfiv6ik/view?usp=drive_link
+- LazyAnalyst with Cats v1.0.0:<br>
+  https://drive.google.com/file/d/1RldJBKoljtqMX7ef2yHKk0tHBFuu92Wb/view?usp=drive_link
