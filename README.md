@@ -6,9 +6,9 @@
 <br>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/e4db5582-4836-4836-81a6-243d974ac0e0" />
 <br>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/f7ea006f-cc94-4cba-ba13-b2ad962dfde7" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/74539929-b5c4-41c5-a415-0c93069b1051" />
 <br>
-(Cover page of Cats Edition)
+(Cover page of LazyAnalyst with Cats)
 <br>
 <br>
 <br>
