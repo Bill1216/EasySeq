@@ -18,14 +18,14 @@ Basic RNASeq downstream analysis GUI for Windows.
 Including differential expression, correlation, gene expr barplot, GSEA (with your custom gene set), gene ontology, ssGSEA, singlecell data, visium data, merge multiple singlecell data.
 <br>
 <br>
-You can directly modify the R script in the resources to meet your own needs.
+Directly modify the R script in the resources to meet your own needs.
 <br>
 <br>
 <br>
 
 Download for Windows:
 - LazyAnalyst v1.0.0:<br>
-  https://drive.google.com/file/d/1SKxAtfA_tsCa-Qtn_glvcRpbtnWKN6WA/view?usp=drive_link
+  https://drive.google.com/file/d/1YqvDoK00a8yJn9LsQI-6eR24oyVgCMWU/view?usp=drive_link
 
 - LazyAnalyst with Cats v1.0.0:<br>
-  https://drive.google.com/file/d/1RldJBKoljtqMX7ef2yHKk0tHBFuu92Wb/view?usp=drive_link
+  https://drive.google.com/file/d/1XgGb7gGiJ17fK_6jTqWuQKP14XsjEcUl/view?usp=drive_link
